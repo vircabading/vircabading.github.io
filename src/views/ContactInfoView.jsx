@@ -52,7 +52,7 @@ const ContactInfoView = () => {
         </div>
       </div>
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-      <p>v2306121832</p>
+      <p>v2306121842</p>
     </div>
   </div>)
 }

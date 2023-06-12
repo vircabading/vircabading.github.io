@@ -14,18 +14,22 @@ function App() {
       <Route exact path="/">
         {/* **** HOME VIEW ************ */}
         <div id='title'>
-s            <HomeView />
+          <HomeView />
         </div>
         {/* **** ABOUT ME VIEW ************ */}
         <div id='aboutme'>
           <div className='add-space-top' />
           <AboutMeView />
         </div>
+        {/* **** DIVIDER AFTER ABOUT ME **** */}
+        <div className='bg-world-01' />
         {/* **** PROJECTS VIEW ************ */}
         <div id='projects'>
           <div className='add-space-top' />
           <ProjectsView />
         </div>
+        {/* **** DIVIDER AFTER PROJECTS **** */}
+        <div className='bg-makati-skyline' />
         {/* **** CONTACT INFO VIEW ************ */}
         <div id='contactinfo'>
           <div className='add-space-top' />
