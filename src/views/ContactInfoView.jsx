@@ -13,14 +13,14 @@ const ContactInfoView = () => {
       <br/><br/>
       {/* Email */}
       <div className='row m-3'>
-        <img className='col-1' src="https://i.ibb.co/3M8NM8j/email-thumb.png" alt="email" />
+        <img className='col-2' src="https://i.ibb.co/3M8NM8j/email-thumb.png" alt="email" />
         <div className='col-9'>
           <h3>vircabading@gmail.com</h3>
         </div>
       </div>
       {/* Resume */}
       <div className='row m-3'>
-        <img className='col-1' src="https://i.ibb.co/q7rkpRS/resume-thumb.png" alt="resume" />
+        <img className='col-2' src="https://i.ibb.co/q7rkpRS/resume-thumb.png" alt="resume" />
         <div className='col-9'>
           <a href=""
               target="_blank"
@@ -31,7 +31,7 @@ const ContactInfoView = () => {
       </div>
       {/* LinkedIn */}
       <div className='row m-3'>
-        <img className='col-1' src="https://i.ibb.co/GdgpdcM/linkedin-thumb.png" alt="linkedIn" />
+        <img className='col-2' src="https://i.ibb.co/GdgpdcM/linkedin-thumb.png" alt="linkedIn" />
         <div className='col-9'>
           <a href="https://www.linkedin.com/in/virgilio-cabading/" 
               target="_blank"
@@ -42,7 +42,7 @@ const ContactInfoView = () => {
       </div>
       {/* GitHub */}
       <div className='row m-3'>
-        <img className='col-1' src="https://i.ibb.co/YyrzZzL/github-thumb.png" alt="github" />
+        <img className='col-2' src="https://i.ibb.co/YyrzZzL/github-thumb.png" alt="github" />
         <div className='col-9'>
           <a href="https://github.com/vircabading"
               target="_blank"
@@ -52,7 +52,18 @@ const ContactInfoView = () => {
         </div>
       </div>
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-      <p>v2306121842</p>
+      <div className='row'>
+        <div className='col'>
+          <a href='#title'>Home</a>
+        </div>
+        <div className='col'>
+          <a href='#aboutme'>About Me</a>
+        </div>
+        <div className='col'>
+          <a href='#projects'>Projects</a>
+        </div>
+      </div>
+      <p>v2306122135</p>
     </div>
   </div>)
 }
