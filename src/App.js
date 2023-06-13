@@ -4,6 +4,7 @@ import HomeView from './views/HomeView';
 import AboutMeView from './views/AboutMeView';
 import ProjectsView from './views/ProjectsView';
 import ContactInfoView from './views/ContactInfoView';
+import NavBarView from './views/NavBarView';
 
 /////////////////////////////////////////////
 // App.js
@@ -16,6 +17,7 @@ function App() {
         <div id='title'>
           <HomeView />
         </div>
+        <NavBarView />
         {/* **** ABOUT ME VIEW ************ */}
         <div id='aboutme'>
           <div className='add-space-top' />
