@@ -22,10 +22,10 @@ const ContactInfoView = () => {
       <div className='row m-3'>
         <img className='col-2' src="https://i.ibb.co/q7rkpRS/resume-thumb.png" alt="resume" />
         <div className='col-9'>
-          <a href=""
+          <a href="https://drive.google.com/file/d/12ZvAIBU2aejXzVhDG-rd1-AtLxt5IGwe/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer">
-            <h3 className='text-light'>Resume</h3>
+            <h3 className='text-light'>PDF Resume</h3>
           </a>
         </div>
       </div>
@@ -63,7 +63,7 @@ const ContactInfoView = () => {
           <a href='#projects'>Projects</a>
         </div>
       </div>
-      <p>v2306141211</p>
+      <p>v2306141255</p>
     </div>
   </div>)
 }
