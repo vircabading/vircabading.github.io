@@ -22,7 +22,7 @@ const ProjectsView = () => {
               <h4>Live App</h4>
             </a>
             <a  className='col btn text-light'
-                href="https://github.com/Virgilio-D-Cabading-Jr/Scrutineer"
+                href="https://github.com/vircabading/MERN_Scrutineer_2306"
                 target="_blank"
                 rel="noopener noreferrer" >
               <h4>GitHub</h4>
@@ -36,7 +36,7 @@ const ProjectsView = () => {
           <p>Web Application for a Fondant Cake Shop that allows for quick searching of cake designs</p>
           <div className='row'>
             <a className='col btn text-light'
-                href="https://github.com/Virgilio-D-Cabading-Jr/Python_aBakery"
+                href="https://github.com/vircabading/Python_aBakery"
                 target="_blank"
                 rel="noopener noreferrer">
               <h4>GitHub</h4>

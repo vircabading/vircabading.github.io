@@ -1,7 +1,5 @@
 # Virgilio Cabading Portfolio Read Me
 
-RESTART
-
 ## This is a portfolio for Virgilio D. Cabading Jr.
 
 Langauge used: Javascript, HTML5, CSS

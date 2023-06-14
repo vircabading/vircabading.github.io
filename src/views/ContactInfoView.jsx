@@ -63,7 +63,7 @@ const ContactInfoView = () => {
           <a href='#projects'>Projects</a>
         </div>
       </div>
-      <p>v2306122135</p>
+      <p>v2306132013</p>
     </div>
   </div>)
 }
