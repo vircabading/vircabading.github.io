@@ -16,7 +16,7 @@ const ProjectsView = () => {
           <p>Web Application for Digital Memorization and Studying of Objects</p>
           <div className='row'>
             <a className='col btn text-light'
-              href="http://18.188.120.249/"
+              href="http://3.137.178.103/"
               target="_blank"
               rel="noopener noreferrer" >
               <h4>Live App</h4>
